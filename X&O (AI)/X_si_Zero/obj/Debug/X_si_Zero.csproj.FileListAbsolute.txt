@@ -1,0 +1,33 @@
+C:\Users\Momoi\source\repos\X_si_Zero\bin\Debug\X_si_Zero.exe.config
+C:\Users\Momoi\source\repos\X_si_Zero\bin\Debug\X_si_Zero.exe
+C:\Users\Momoi\source\repos\X_si_Zero\bin\Debug\X_si_Zero.pdb
+C:\Users\Momoi\source\repos\X_si_Zero\obj\Debug\X_si_Zero.csprojAssemblyReference.cache
+C:\Users\Momoi\source\repos\X_si_Zero\obj\Debug\X_si_Zero.Properties.Resources.resources
+C:\Users\Momoi\source\repos\X_si_Zero\obj\Debug\X_si_Zero.csproj.GenerateResource.cache
+C:\Users\Momoi\source\repos\X_si_Zero\obj\Debug\X_si_Zero.csproj.CoreCompileInputs.cache
+C:\Users\Momoi\source\repos\X_si_Zero\obj\Debug\X_si_Zero.exe
+C:\Users\Momoi\source\repos\X_si_Zero\obj\Debug\X_si_Zero.pdb
+C:\Users\Momoi\source\repos\X_si_Zero\obj\Debug\X_si_Zero.tictactoe.resources
+C:\Users\Momoi\source\repos\X_si_Zero\obj\Debug\X_si_Zero.Form2.resources
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\bin\Debug\X_si_Zero.exe.config
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\bin\Debug\X_si_Zero.exe
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\bin\Debug\X_si_Zero.pdb
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\obj\Debug\X_si_Zero.csprojAssemblyReference.cache
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\obj\Debug\X_si_Zero.tictactoe.resources
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\obj\Debug\X_si_Zero.Form2.resources
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\obj\Debug\X_si_Zero.Properties.Resources.resources
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\obj\Debug\X_si_Zero.csproj.GenerateResource.cache
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\obj\Debug\X_si_Zero.csproj.CoreCompileInputs.cache
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\obj\Debug\X_si_Zero.exe
+C:\Users\Momoi\Desktop\FACULTATE\X_si_Zero\obj\Debug\X_si_Zero.pdb
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\bin\Debug\X_si_Zero.exe.config
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\bin\Debug\X_si_Zero.exe
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\bin\Debug\X_si_Zero.pdb
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\obj\Debug\X_si_Zero.csprojAssemblyReference.cache
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\obj\Debug\X_si_Zero.tictactoe.resources
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\obj\Debug\X_si_Zero.Form2.resources
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\obj\Debug\X_si_Zero.Properties.Resources.resources
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\obj\Debug\X_si_Zero.csproj.GenerateResource.cache
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\obj\Debug\X_si_Zero.csproj.CoreCompileInputs.cache
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\obj\Debug\X_si_Zero.exe
+C:\Users\Momoi\Desktop\X&O (AI)\X_si_Zero\obj\Debug\X_si_Zero.pdb
